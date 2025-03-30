@@ -3,7 +3,5 @@ title: "ArXiv preprint: A parallel-in-time method based on the Parareal algorith
 collection: publications
 category: manuscripts
 permalink: /publication/parareal_hodmd_paper
-date: 2025-03-05
-venue: 'as a preprint'
 paperurl: 'https://arxiv.org/pdf/2503.03109'
 ---

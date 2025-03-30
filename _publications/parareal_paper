@@ -3,8 +3,8 @@ title: "Parallel-in-time simulation of biofluids "
 collection: publications
 category: manuscripts
 permalink: /publication/parareal_paper
-date: 2022
+date: 2022-06-02
 venue: 'Journal of Computational Physics'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0021999122004284'
-citation: 'Liu, W., & Rostami, M.W. (2022). Parallel-in-time simulation of biofluids. J. Comput. Phys., 464, 111366. &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Liu, W., & Rostami, M.W. (2022). Parallel-in-time simulation of biofluids. J. Comput. Phys., 464, 111366.'
 ---

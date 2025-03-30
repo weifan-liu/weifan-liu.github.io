@@ -17,6 +17,9 @@ redirect_from:
 ## Parallel-in-time simulation of biofluids (2022)
 [Liu, W., Rostami, M. W. (2022). "Parallel-in-time simulation of biofluids." Journal of Computational Physics. 464, 111366.](https://www.sciencedirect.com/science/article/abs/pii/S0021999122004284)
 
+## Optimal Design of Bacterial Carpets for Fluid Pumping (2022)
+[Rostami, M. W., Liu, W., Buchmann, A., Strawbridge, E., & Zhao, L. (2022). Optimal Design of Bacterial Carpets for Fluid Pumping. Fluids, 7(1), 25](https://www.mdpi.com/2311-5521/7/1/25)
+
 ## Steady states of thin film droplets on chemically heterogeneous substrates (2020)
 [Liu, W., & Witelski, T.P. (2020). "Steady states of thin film droplets on chemically heterogeneous substrates." IMA Journal of Applied Mathematics. Volume 85, Issue 6, December 2020, Pages 980-1020.](https://academic.oup.com/imamat/article/85/6/980/5919193)
 

@@ -1,11 +1,12 @@
 ---
 permalink: /pub_page/
-title: "Representative papers and preprints"
+title: "Publications"
 author_profile: true
 redirect_from: 
   - /md/
   - /pub_page.html
 ---
+# Representative papers and preprints
 
 ## ArXiv preprint: A parallel-in-time method based on the Parareal algorithm and High-Order Dynamic Mode Decomposition with applications to fluid simulations (2025)
 [arXiv:2503.03109 [physics.comp-ph]](https://arxiv.org/abs/2503.03109)

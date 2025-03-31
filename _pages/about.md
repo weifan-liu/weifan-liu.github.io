@@ -1,17 +1,15 @@
 ---
 permalink: /
-title: "Weifan Liu, Ph.D."
+title: "Weifan Liu 刘维凡, Ph.D."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Lecturer, Department of Mathematics, 
+College of Science, Beijing Forestry University
 
-Lecturer, 
-Department of Mathematics, College of Science, 
-Beijing Forestry University
-
-Email: weifanliu@bjfu.edu.cn
+*Email: weifanliu@bjfu.edu.cn
 
 Research Interests:
 ======

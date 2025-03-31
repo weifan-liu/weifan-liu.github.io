@@ -9,7 +9,7 @@ redirect_from:
 Lecturer, Department of Mathematics, 
 College of Science, Beijing Forestry University
 
-*Email: weifanliu@bjfu.edu.cn
+**Email: weifanliu@bjfu.edu.cn
 
 Research Interests:
 ======

@@ -8,6 +8,9 @@ redirect_from:
 ---
 # Representative papers and preprints
 
+## An efficient deep reinforcement method for smart particle navigation in complex flows (2026).
+[Lu, X., Liu, J., & Liu, W. (2026). An efficient deep reinforcement method for smart particle navigation in complex flows. ." New Journal of Physics.](https://iopscience.iop.org/article/10.1088/1367-2630/ae3fc4)
+
 ## ArXiv preprint: A parallel-in-time method based on the Parareal algorithm and High-Order Dynamic Mode Decomposition with applications to fluid simulations (2025)
 [arXiv:2503.03109 [physics.comp-ph]](https://arxiv.org/abs/2503.03109)
   	
